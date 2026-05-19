@@ -19,8 +19,7 @@ hw2/
 ├── requirements.txt        # Python 依赖
 ├── data/                   # Flower102 数据
 ├── checkpoints/            # 训练得到的模型权重
-├── logs/                   # 训练日志 CSV 和曲线图
-└── report/                 # 最终实验报告与图表
+└── logs/                   # 训练日志 CSV 和曲线图
 ```
 
 核心代码只有以下几个文件：
